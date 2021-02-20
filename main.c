@@ -1,4 +1,4 @@
-//
+=//
 pseudo code
 {
 Initial Function()
